@@ -16,6 +16,9 @@ yarn-error.log*
 .env
 .env.*
 
+# Rust
+target/
+
 # OS / editor
 .DS_Store
 .idea/
